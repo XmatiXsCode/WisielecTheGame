@@ -26,7 +26,7 @@ function info()
   }
   else if(tryb==2)
   {
-    alert("W trybie duo na początku pierwsza osoba wpisuje hasło, aby druga mogła go rozszyfrować.");
+    alert("W trybie duo na początku pierwsza osoba wpisuje hasło, aby druga mogła je rozszyfrować.");
   }
   else if(tryb==3)
   {
